@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Todo",
-    "slug": "Todo",
+    "name": "Nepse Calculator",
+    "slug": "Nepse Calculator",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
